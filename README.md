@@ -4,7 +4,7 @@ This is the repository for my personal website, designed to showcase my projects
 
 ## Live Demo
 
-Check out the live site here: [https://enisba.github.io/PersonalWebsite](https://enisba.github.io/PersonalWebsite)
+Check out the live site here: [https://enisba.github.io/PersonalWebsite](https://enisba.github.io/PersonalWebsite/Home)
 
 ## Features
 
