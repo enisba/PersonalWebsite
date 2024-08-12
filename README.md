@@ -16,5 +16,4 @@ Check out the live site here: [https://enisba.github.io/PersonalWebsite](https:/
 
 - **HTML5 & CSS3**
 - **JavaScript**
-- **Material-UI**
-- **GitHub Pages**
+- **Material-UI** 
