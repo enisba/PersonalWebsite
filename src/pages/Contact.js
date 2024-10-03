@@ -36,8 +36,8 @@ const Contact = () => {
         }}
       />
           
-          <Grid item xs={12} md={6}>
-            <Paper elevation={3} sx={{ p: 2, textAlign: 'left' }}>
+          <Grid container justifyContent='center'>
+            <Paper elevation={1} sx={{ p: 1, textAlign: 'left' }}>
               <Typography variant="h5" component="h2" gutterBottom>
                 Contact Information
               </Typography>
