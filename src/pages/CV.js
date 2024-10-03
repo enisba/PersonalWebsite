@@ -31,7 +31,7 @@ const CV = () => {
         justifyContent: 'flex-start',
         minWidth: '95vw', 
         minHeight: '90vh',
-        background: 'linear-gradient(135deg, #f6d365 0%, #fda085 20%)',
+        background: 'linear-gradient(135deg, #004d40 0%, #00796b 50%)',
         textAlign: 'center',
         padding: 4,
       }}
@@ -64,7 +64,7 @@ const CV = () => {
                     filter: 'brightness(0.8)',
                   }}
                 />
-                <CardContent sx={{ backgroundColor: '#1976d2'}}>
+                <CardContent sx={{ backgroundColor: '#123143'}}>
                   <Typography variant="h6" gutterBottom sx={{ fontWeight: 'bold' , color: '#ffff'}} >
                     CV
                   </Typography>
@@ -100,7 +100,7 @@ const CV = () => {
                     filter: 'brightness(0.8)',
                   }}
                 />
-                <CardContent sx={{ backgroundColor: '#1976d2'}}>
+                <CardContent sx={{ backgroundColor: '#123143'}}>
                   <Typography variant="h6" gutterBottom sx={{ fontWeight: 'bold' , color: '#ffff'}}>
                     Weather App
                   </Typography>
@@ -137,7 +137,7 @@ const CV = () => {
             </Worker>
             <Button
               variant="contained"
-              sx={{ mt: 2, backgroundColor: '#1976d2'}}
+              sx={{ mt: 2, backgroundColor: '#123143'}}
               onClick={handleClose}
             >
               Close

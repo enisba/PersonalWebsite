@@ -18,7 +18,7 @@ const Contact = () => {
           justifyContent: 'center',
           width: '97.8vw', 
           height: '90vh',
-          background: 'linear-gradient(135deg, #f6d365 0%, #fda085 70%)',
+          background: 'linear-gradient(135deg, #004d40 0%, #00796b 50%)',
           color: '#fff',
           textAlign: 'center',
           padding: 2,

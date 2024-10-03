@@ -11,7 +11,7 @@ import PhoneIcon from '@mui/icons-material/Phone';
 
 const Navbar = () => {
   return (
-    <AppBar position="static">
+    <AppBar position="static" sx={{background: '#123143'}}>
       <Toolbar>
         <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
           Enes Ismet Bal 

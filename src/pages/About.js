@@ -11,7 +11,7 @@ const About = () => {
         alignItems: 'center',
         justifyContent: 'center',
         minHeight: '100vh',
-        background: 'linear-gradient(135deg, #f6d365 0%, #fda085 50%)',
+        background: 'linear-gradient(135deg, #004d40 0%, #00796b 50%)',
         color: '#fff',
         textAlign: 'center',
         padding: 4,
