@@ -131,7 +131,7 @@ const CV = () => {
       My CV
     </Typography>
     <Worker workerUrl={'https://unpkg.com/pdfjs-dist@3.11.174/build/pdf.worker.min.js'}>
-      <div style={{ width: '100%', height: 'calc(100vh - 300px)' }}> 
+      <div style={{ width: '100%', height: 'calc(100vh - 200px)' }}> 
         <Viewer fileUrl={myCV} />
       </div>
     </Worker>
